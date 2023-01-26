@@ -1,0 +1,59 @@
+1.
+Igen
+
+2
+Nem
+
+3
+Nem
+
+4
+Semmit az ég világon
+
+5
+Igen. wireless 802.11 frame-et kapot.
+
+6
+Nem
+
+7
+Layer 1
+
+8
+Nem
+
+9
+Destination
+
+10
+A switch gyorsabban eltudja kezdeni továbbitani az adatot
+
+11
+Nem
+
+12
+Nem
+
+13
+A router után
+
+14
+A router
+
+15
+A "feladó?" és a "vevő?" 
+
+16
+Nem
+
+17
+Igen
+
+18
+Minden port külön ip tartományal rendelkezik
+
+19
+Mert a Routernek ez a feladata? hogy össze kösse a különbőző hálozatokat
+
+20
+IPv4 helyet IPv6 os ip címek lennének de ezen kivül semmi
